@@ -19,8 +19,8 @@ This project is a C implementation of a **Snakes and Ladders Game** with enhance
 
 1. Clone this repository:
    
-   - git clone https://github.com/<your-username>/snakes-and-ladders-game.git
-
+   - git clone [https://github.com/<your-username>/snakes-and-ladders-game.git
+](https://github.com/Srivathsansundarrajan/snake-and-ladder.git)
 ## Navigate to the project directory:
 
   - cd snakes-and-ladders-game
