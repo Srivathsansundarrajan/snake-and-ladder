@@ -149,7 +149,8 @@ int rollDice(int player_no) {
   int p;
   printf("\nPlayer[%d] press Enter to roll the dice", player_no);
   
-  //while (getchar() != '\n'); //Waiting for the user to press enter.
+  while (getchar() != '\n'); //Waiting for the user to press enter.
+  // if you want to simulate the entire game for testing it comment the above line.
   
   p = (rand() % high) + low;
   printf("Player[%d] got:%d\n", player_no,p);
